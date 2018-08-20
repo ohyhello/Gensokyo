@@ -1,0 +1,55 @@
+{
+  "_from": "snapsvg@^0.4.0",
+  "_id": "snapsvg@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-4HZwFBZ4JZV95+ElwpsPqJeW6gM=",
+  "_location": "/snapsvg",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "snapsvg@^0.4.0",
+    "name": "snapsvg",
+    "escapedName": "snapsvg",
+    "rawSpec": "^0.4.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.4.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/snapsvg/-/snapsvg-0.4.0.tgz",
+  "_shasum": "e0767014167825957de7e125c29b0fa89796ea03",
+  "_spec": "snapsvg@^0.4.0",
+  "_where": "/www/wwwroot/www/wp-content/themes/Gensokyo",
+  "author": {
+    "name": "Dmitry Baranovskiy"
+  },
+  "bugs": {
+    "url": "https://github.com/adobe-webplatform/Snap.svg/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "eve": "~0.4.2"
+  },
+  "deprecated": false,
+  "description": "JavaScript Vector Library",
+  "devDependencies": {
+    "dr.js": "~0.1.0",
+    "expect.js": "*",
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-exec": "~0.4.2",
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/adobe-webplatform/Snap.svg#readme",
+  "license": "Apache License v2",
+  "main": "./dist/snap.svg.js",
+  "name": "snapsvg",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adobe-webplatform/Snap.svg.git"
+  },
+  "version": "0.4.0"
+}

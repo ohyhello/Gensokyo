@@ -1,0 +1,44 @@
+{
+  "_from": "typed.js@^1.1.1",
+  "_id": "typed.js@1.1.7",
+  "_inBundle": false,
+  "_integrity": "sha1-Vz2cEabmHoBre97+nqeL7+JanWM=",
+  "_location": "/typed.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "typed.js@^1.1.1",
+    "name": "typed.js",
+    "escapedName": "typed.js",
+    "rawSpec": "^1.1.1",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/typed.js/-/typed.js-1.1.7.tgz",
+  "_shasum": "573d9c11a6e61e806b7bdefe9ea78befe25a9d63",
+  "_spec": "typed.js@^1.1.1",
+  "_where": "/www/wwwroot/www/wp-content/themes/Gensokyo",
+  "authors": [
+    "Matt Boldt <me@mattboldt.com>"
+  ],
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A jQuery typing animation script",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  },
+  "homepage": "https://github.com/mattboldt/typed.js",
+  "keywords": [
+    "typed",
+    "animation"
+  ],
+  "main": "dist/typed.min.js",
+  "name": "typed.js",
+  "version": "1.1.7"
+}
