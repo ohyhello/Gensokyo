@@ -16,4 +16,9 @@ js采用webpack压缩 css采用glup压缩使用前请先浏览目录  
 ## Worning
 此主题支持二次开发和学习研究
 转载请标明出处且禁止非法及商业用途
+# Thank
+amativeness
+https://github.com/DIYgod/Amativeness
+
+http://azfashao.com/amativeness3-0/
 
